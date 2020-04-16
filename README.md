@@ -26,6 +26,7 @@ How to win quiz night
 
 ### Our Team
 
+<p align="center">
 Daniel Dalgleish  - International Composer in Residence
 
 Lachlan Spence    - Campaign Strategist
@@ -39,6 +40,7 @@ Reuben Brown      - Marketing and Promotions Manager
 Liam Bewley       - Endorsement and PR Officer
 
 Clarke Spence     - Funding Director
+</p>
 
 ### Contact Us
 
