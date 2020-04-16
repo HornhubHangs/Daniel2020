@@ -7,9 +7,7 @@ We are delighted to have you on board and would value your support and suggestio
   <img src= "https://media-exp1.licdn.com/dms/image/C5103AQFxZKsZ_yr_Hg/profile-displayphoto-shrink_200_200/0?e=1592438400&v=beta&t=ZPR1m_70gR0mkYUaqXeEh5QFc91nNPZqNnhbuB4BWGA"/>
 </p>
 
-<p align="center">
 ### Don't be shy, [Donate](https://youtu.be/G51hsPZMsFA?t=226)!
-</p>
 
 ### Our Mission
 
