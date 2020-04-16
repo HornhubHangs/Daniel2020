@@ -36,7 +36,7 @@ How to win quiz night
   Alex King         - Chief Advisor on Communication and Tone
 </p>
 <p align="center">
-  William Herewini  - HR Officer and IT Support Manager and an Overall Cool Guy
+  William Herewini  - HR Officer and IT Support Manager and Overall Cool Guy
 </p>
 <p align="center">
   Reuben Brown      - Marketing and Promotions Manager
