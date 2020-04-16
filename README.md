@@ -1,6 +1,6 @@
 ## Welcome to the Daniel2020 Campaign
 
-Daniel Dalgleish is the current Bored Bandsmen's Internation Composer in Residence and this page is dedicated to the current Daniel2020 campaign where we are pushing for a brighter future for this young composer and the entire brass band community. The objective at this moment is to dominate the quiz hosted by none other than [Wellington Brass Band](http://www.wellingtonbrass.net.nz/).
+Daniel Dalgleish is the current Bored Bandsmen's International Composer in Residence and this page is dedicated to the current Daniel2020 campaign where we are pushing for a brighter future for this young composer and the entire brass band community. The objective at this moment is to dominate the quiz hosted by none other than [Wellington Brass Band](http://www.wellingtonbrass.net.nz/).
 
 We are delighted to have you on board and would value your support and suggestions. Please do not hesitate to reach out to us through our contact found at the bottom of the page.
 <p align="center">
@@ -23,6 +23,7 @@ How to win quiz night
 3. Win!
 ```
 
+## Don't be shy, [Donate](https://youtu.be/G51hsPZMsFA?t=226)!
 
 ### Our Team
 
