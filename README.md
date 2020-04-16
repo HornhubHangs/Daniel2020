@@ -23,7 +23,23 @@ How to win quiz night
 3. Win!
 ```
 
- 
+
+### Our Team
+
+Daniel Dalgleish  - International Composer in Residence
+
+Lachlan Spence    - Campaign Strategist
+
+Alex King         - Chief Advisor on Communication and Tone
+
+William Herewini  - HR Officer and IT Support Manager and an Overall Cool Guy
+
+Reuben Brown      - Marketing and Promotions Manager
+
+Liam Bewley       - Endorsement and PR Officer
+
+Clarke Spence     - Funding Director
+
 ### Contact Us
 
 Do you have enquiries?
