@@ -23,7 +23,7 @@ How to win quiz night
 3. Win!
 ```
 
-## Don't be shy, [Donate](https://youtu.be/G51hsPZMsFA?t=226)!
+### Don't be shy, [Donate](https://youtu.be/G51hsPZMsFA?t=226)!
 
 ### Our Team
 
