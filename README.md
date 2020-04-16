@@ -20,7 +20,7 @@ How to win quiz night
 2. Deter opposition with pen and paper and 
    eloquent sentence structure
    
-3. Win
+3. Win!
 ```
 
 
