@@ -15,7 +15,7 @@ The following block is our 3 step method to crushing our opponents:
 ```markdown
 How to win quiz night
 
-1. Put together cohesive and formidable team
+1. Assemble a cohesive and formidable team
 
 2. Deter opposition with pen and paper and 
    eloquent sentence structure
