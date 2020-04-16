@@ -16,7 +16,8 @@ The following block is our 3 step method to curshing our opponents:
 How to win quiz night
 
 1. Put together cohesive and formidable team
-2. Deter opposition with pen and paper and eloquent sentence structure
+2. Deter opposition with pen and paper and 
+   eloquent sentence structure
 3. Win
 ```
 
