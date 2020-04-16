@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to the Daniel2020 Campaign
 
-You can use the [editor on GitHub](https://github.com/will4799/Daniel2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Daniel Dalgleish is the current Bored Bandsmen's Internation Composer in Residence and this page is dedicated to the current Daniel2020 campaign where we are pushing for a brighter future for this young composer and the entire brass band community.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are delighted to have you on board and would value your support and suggestions. Please do not hesitate to contact us through our contacts found at the bottom of the page.
 
 ### Markdown
 
