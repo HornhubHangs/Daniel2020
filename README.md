@@ -28,11 +28,23 @@ How to win quiz night
 
 <p align="center">
   Daniel Dalgleish  - International Composer in Residence
+</p>
+<p align="center">
   Lachlan Spence    - Campaign Strategist
+</p>
+<p align="center">
   Alex King         - Chief Advisor on Communication and Tone
+</p>
+<p align="center">
   William Herewini  - HR Officer and IT Support Manager and an Overall Cool Guy
+</p>
+<p align="center">
   Reuben Brown      - Marketing and Promotions Manager
+</p>
+<p align="center">
   Liam Bewley       - Endorsement and PR Officer
+</p>
+<p align="center">
   Clarke Spence     - Funding Director
 </p>
 
