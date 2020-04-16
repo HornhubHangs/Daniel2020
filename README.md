@@ -10,7 +10,7 @@ We are delighted to have you on board and would value your support and suggestio
 
 ### Our Mission
 
-The following block is our 3 step method to curshing our opponents:
+The following block is our 3 step method to crushing our opponents:
 
 ```markdown
 How to win quiz night
