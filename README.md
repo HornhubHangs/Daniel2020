@@ -45,7 +45,7 @@ How to win quiz night
   Clarke Spence     - Funding Director
 </p>
 <p align="center">
-  William Herewini  - HR Officer and IT Support Manager and an Overall Cool Guy
+  William Herewini  - Human Resources Officer and IT Support Manager and an Overall Cool Guy
 </p>
 
 ### Contact Us
